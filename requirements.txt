@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+joblib
+streamlit
+openpyxl
+matplotlib
+python-docx
+python-pptx
